@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(49, 163, 230);
+}
+
+.page_frame {
+    background-color: rgb(29, 34, 43);
+    overflow: hidden;
+    margin-top: 16px;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.page_title {
+    padding: 16px 16px;
+    overflow: hidden;
+}
+
+.page_title h1 {
+    font-family: 'Questrial', sans-serif;
+    font-weight: 4px;
+    margin-left: 16px;
+    margin-right: 16px;
+    font-size: 50px;
+    color: white;
+}
